@@ -1,0 +1,23 @@
+# Project Title
+Small-Business-Inventory-Dashboard
+## Project Overview
+This project will creat a Python based dashboad for tracking product inventory, sales, and restocksfor small businesses.
+## Team Members
+Mary Lynn Byrom
+##Technologies Lead
+Pythons
+##Roadmap / Tasks
+### Sprint 1
+[ x ] Create GitHub repository
+[  ] Write initial README 
+[  ] Research similar inventory dashboards
+[  ] Plan feautures and layout
+[  ] Document set instructions
+### Sprint 2 
+[  ] Build data import funtion
+[  ] Creat visual dashboard
+[  ] Add export/report feature
+[  ] Test and fix bugs
+## License 
+MIT License
+
