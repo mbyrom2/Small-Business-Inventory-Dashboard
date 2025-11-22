@@ -9,9 +9,9 @@ Pythons
 ##Roadmap / Tasks
 ### Sprint 1
 [ x ] Create GitHub repository
-[  ] Write initial README 
-[  ] Research similar inventory dashboards
-[  ] Plan feautures and layout
+[ x ] Write initial README 
+[ x ] Research similar inventory dashboards
+[ x ] Plan feautures and layout
 [  ] Document set instructions
 ### Sprint 2 
 [  ] Build data import funtion
