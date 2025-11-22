@@ -12,12 +12,13 @@ Pythons
 [ x ] Write initial README 
 [ x ] Research similar inventory dashboards
 [ x ] Plan feautures and layout
+<<<<<<< HEAD
 [ x ] Document set instructions
 ### Sprint 2 
-[  ] Build data import funtion
-[  ] Creat visual dashboard
-[  ] Add export/report feature
-[  ] Test and fix bugs
+[ x ] Build data import funtion
+[ x ] Creat visual dashboard
+[ x ] Add export/report feature
+[ x ] Test and fix bugs
 ## License 
 MIT License
 
