@@ -1,6 +1,11 @@
 {% extends "base.html" %}
 
 {% block content %}
-<h1>Welcome to Your Inventory Dashboard</h1>
-<p>Use the navigation above to view or manage your inventory.</p>
+<h1>Small Business Inventory Dashboard</h1>
+<p>This is a Flask + SQLite inventory tracking app.</p>
+
+<ul>
+  <li><a href="{{ url_for('inventory') }}">View Inventory</a></li>
+  <li><a href="{{ url_for('add_item') }}">Add Item</a></li>
+</ul>
 {% endblock %}
