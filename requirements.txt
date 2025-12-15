@@ -1,2 +1,1 @@
-Flask
-sqlite-bro
+Flask>=2.0
