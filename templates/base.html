@@ -1,0 +1,25 @@
+<!doctype html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <title>Small Business Inventory Dashboard</title>
+</head>
+<body>
+  <nav>
+    <a href="{{ url_for('home') }}">Home</a> |
+    <a href="{{ url_for('inventory') }}">Inventory</a> |
+    <a href="{{ url_for('add_item') }}">Add Item</a>
+  </nav>
+  <hr>
+  {% with messages = get_flashed_messages() %}
+    {% if messages %}
+      <ul>
+        {% for message in messages %}
+          <li>{{ message }}</li>
+        {% endfor %}
+      </ul>
+    {% endif %}
+  {% endwith %}
+  {% block content %}{% endblock %}
+</body>
+</html>
